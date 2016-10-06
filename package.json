@@ -1,0 +1,25 @@
+{
+  "name": "gitbook-plugin-links",
+  "description": "GitBook Plugin to add user defined links to every page.",
+  "main": "index.js",
+  "version": "1.0.0",
+  "author": "Erik Kristensen <erik@erikkristensen.com>",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/ekristen/gitbook-plugin-links",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekristen/gitbook-plugin-links.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekristen/gitbook-plugin-links/issues"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "links"
+  ],
+  "scripts": {}
+}
